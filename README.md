@@ -6,7 +6,7 @@ Simplilearn FSD Phase 1 Project
 * [General info](#general-info)
 * [Using the application](#using-the-application)
 * [Technologies](#technologies)
-* [ Duration of Sprint Planning](# Duration of sprint-planning)
+* [Duration of Sprint Planning](# Duration of sprint-planning)
 * [Setup](#setup)
 
 ## General info
