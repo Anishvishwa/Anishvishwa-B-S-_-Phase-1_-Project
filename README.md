@@ -15,7 +15,7 @@ A simple file handling project in Java
 ## Using the application
 Welcome screen displays the application name and the developer details.
 
-![Screenshot (72)](https://user-images.githubusercontent.com/111677858/196341748-c7501964-7a1f-48a9-abae-deb87f938b6b.png)
+![caf992ae-66a6-4bda-9324-0ef5975a89f0](https://user-images.githubusercontent.com/111677858/196344866-ad5d2e17-9d40-458b-a18d-c3a3719cafd1.jpg)
 
 
 The details of the user interface are shown to the user. The user has to select from the options listed 
